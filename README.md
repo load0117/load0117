@@ -15,7 +15,7 @@
 
 HI I`m HK. 👋
 
-I'm **BackEnd Developer**
+I'm **BackEnd Developer**.
 I'm still a developer with a lot to learn
 
 #### Skills
@@ -35,11 +35,21 @@ I'm still a developer with a lot to learn
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </a>
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</a>
+<br>
 <a href="https://www.mysql.com/downloads/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black"/>
 </a>
 <a href="https://www.oracle.com/kr/database/technologies/oracle-database-software-downloads.html" target="_blank">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+</a>
+<a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate"/>
+</a>
+<a href="https://mybatis.org/mybatis-3/" target="_blank">
+    <img src="https://img.shields.io/badge/Mybatis-red?style=flat"/>
 </a>
 
 #### 📊 My GitHub Stats
